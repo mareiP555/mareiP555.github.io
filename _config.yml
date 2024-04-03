@@ -20,7 +20,7 @@ author: まれい marei
 
 navbar-links:
   About Me 自介: "aboutme"
-  Game ID: "gamdid" 
+  Game ID: "gameid" 
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -128,7 +128,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F19591" #rio color
-navbar-text-col: "#FFFFFF"
+navbar-text-col: "#FFFFFF" #white text
 navbar-border-col: "#FFE43F" #ami color
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -194,7 +194,7 @@ footer-hover-col: "#0075C2" #cursor override color
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+commentbox: "5729225428434944-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
